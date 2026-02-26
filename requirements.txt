@@ -1,0 +1,6 @@
+numpy
+matplotlib
+requests
+gtts
+pygame
+pyttsx3

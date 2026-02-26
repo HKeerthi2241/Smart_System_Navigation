@@ -1,0 +1,61 @@
+{
+  "admin_block": {
+    "display_name": "Admin Block",
+    "base_description": "The administrative center of the GITAM Bangalore campus.",
+    "extra_points": [
+      "Handles admissions and examinations",
+      "Administrative decision-making hub",
+      "Frequently visited by students and parents"
+    ]
+  },
+
+  "library": {
+    "display_name": "Library",
+    "base_description": "A central academic resource and knowledge center.",
+    "extra_points": [
+      "Extensive collection of books and journals",
+      "Digital learning and e-library facilities",
+      "Quiet and focused study environment"
+    ]
+  },
+
+  "computer_science_department": {
+    "display_name": "Computer Science Department",
+    "base_description": "The hub of computing, innovation, and software development.",
+    "extra_points": [
+      "Advanced programming and AI laboratories",
+      "Faculty research and innovation areas",
+      "Student project and hackathon spaces"
+    ]
+  },
+
+  "mechanical_workshop": {
+    "display_name": "Mechanical Workshop",
+    "base_description": "A hands-on engineering practice and experimentation area.",
+    "extra_points": [
+      "Machining and fabrication laboratories",
+      "Practical training sessions for students",
+      "Core facility for mechanical engineering"
+    ]
+  },
+
+  "cafeteria": {
+    "display_name": "Cafeteria",
+    "base_description": "A social and refreshment space for students and staff.",
+    "extra_points": [
+      "Wide variety of food and beverages",
+      "Popular student gathering spot",
+      "Relaxation area between classes"
+    ]
+  },
+
+  "auditorium": {
+    "display_name": "Auditorium",
+    "base_description": "A large venue for academic and cultural events.",
+    "extra_points": [
+      "Seminars and conferences",
+      "Cultural and technical programs",
+      "Guest lectures and university events"
+    ]
+  }
+}

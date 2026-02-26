@@ -1,0 +1,28 @@
+{
+  "gitam_shivaji_bhavan": {
+    "name": "GITAM Shivaji Bhavan",
+    "type": "Lecture hall and administration block",
+    "location": "GITAM campus main quad",
+    "history": "Built in 2005 as a central academic and administrative building.",
+    "features": [
+      "Large amphitheater-style lecture halls",
+      "Marble foyer with portraits",
+      "Admin offices and student help center",
+      "Nearby coffee kiosk and garden"
+    ],
+    "notes": "Open during campus hours; accessible entrances on east and west sides."
+  },
+  "guild_cafe": {
+    "name": "Guild Cafe",
+    "type": "Student-run cafe and hangout",
+    "location": "Across from the library",
+    "history": "Founded by students in 2012, popular for weekend events.",
+    "features": [
+      "Indoor seating with free Wi-Fi",
+      "Outdoor terrace overlooking the courtyard",
+      "Specialty coffee and local snacks",
+      "Blackboard for daily events"
+    ],
+    "notes": "Often hosts poetry and open-mic nights in the evenings."
+  }
+}

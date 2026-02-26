@@ -1,0 +1,8 @@
+{
+  
+  "lm_studio_url": "http://172.22.201.96:1234/v1/chat/completions",
+  "model": "mistralai/mistral-7b-instruct-v0.3",
+   "min_seconds": 30,
+  "max_seconds": 60,
+  "voice_language": "en"
+}
