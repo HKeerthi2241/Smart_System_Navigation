@@ -1,4 +1,4 @@
-# Voice LLM (LM Studio + Mistral + Whisper + gTTS)
+# Voice LLM (LM Studio + Mistral + gTTS)
 
 ### Steps to Run
 
